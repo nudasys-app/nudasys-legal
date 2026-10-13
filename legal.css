@@ -1,0 +1,5 @@
+body { margin: 0; background: #210f07; color: #ffdbce; font-family: Georgia, "Times New Roman", serif; }
+main { max-width: 40rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+h1, h2 { font-weight: 600; }
+a { color: #ffb77d; }
+p, li { line-height: 1.5; }
